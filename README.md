@@ -1,0 +1,2 @@
+# InfoManager
+info
